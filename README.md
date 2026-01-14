@@ -13,7 +13,6 @@ Perl. A computer. You know the rest.
 ## Usage example
 
 
-# ---- Example usage ----
 ```perl
 my ($ok, $m) = riscos_module_info($ARGV[0]);
 if (!$ok) {
